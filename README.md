@@ -12,7 +12,7 @@ The default cache configuration is **4-way set associative** with **64 sets**.
 ---
 
 ## 📷 Design
-Add the system design image / waveform screenshots here.
+![Cache Design](./pictures/design.png)
 
 ---
 
