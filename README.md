@@ -42,6 +42,8 @@ Implemented using a **Finite State Machine (FSM)** with states for:
 - LRU replacement
 - Write-back to RAM
 - Cache update
+<img src="./pictures/states.png" width="600"/>
+  
 
 ### 🔹 RAM Module
 - **64K × 32-bit synchronous RAM**
