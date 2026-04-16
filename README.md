@@ -18,6 +18,7 @@ The default cache configuration is **4-way set associative** with **64 sets**.
 
 ## 📁 Files
 ```text
+> pictures
 Cache.v
 Cache_Controller.v
 Cache_Controller_Testbench.v
@@ -42,7 +43,7 @@ Implemented using a **Finite State Machine (FSM)** with states for:
 - LRU replacement
 - Write-back to RAM
 - Cache update
-<img src="./pictures/states.png" width="600"/>
+<img src="./pictures/states.png" width="300"/>
   
 
 ### 🔹 RAM Module
@@ -96,6 +97,9 @@ The testbench verifies:
 Simulation and waveforms were verified using **QuestaSim**.
 
 ---
+## overall waveform 
+<img src="./pictures/overall_waveform.png" width="600"/>
+
 
 
 
