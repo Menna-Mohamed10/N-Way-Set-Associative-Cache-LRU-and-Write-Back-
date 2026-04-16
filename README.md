@@ -12,7 +12,7 @@ The default cache configuration is **4-way set associative** with **64 sets**.
 ---
 
 ## 📷 Design
-![Cache Design](./pictures/design.png)
+<img src="./pictures/design.png" width="600"/>
 
 ---
 
